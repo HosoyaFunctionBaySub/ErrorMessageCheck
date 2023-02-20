@@ -1,0 +1,5 @@
+C:\Users\hosoya\source\repos\ErrorMessageCheck\ErrorMessageCheck\obj\Debug\ErrorMessageCheck.csprojAssemblyReference.cache
+C:\Users\hosoya\source\repos\ErrorMessageCheck\ErrorMessageCheck\obj\Debug\ErrorMessageCheck.csproj.CoreCompileInputs.cache
+C:\Users\hosoya\source\repos\ErrorMessageCheck\ErrorMessageCheck\obj\Debug\ErrorMessageCheck.ErrorMessageCheck.resources
+C:\Users\hosoya\source\repos\ErrorMessageCheck\ErrorMessageCheck\obj\Debug\ErrorMessageCheck.csproj.GenerateResource.cache
+C:\Users\hosoya\source\repos\ErrorMessageCheck\ErrorMessageCheck\obj\Debug\ErrorMessageCheck.AB_RDGadget.resources
