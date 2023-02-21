@@ -13,3 +13,4 @@ C:\Users\hosoya\Documents\GitHub\ErrorMessageCheck\ErrorMessageCheck\ErrorMessag
 C:\Users\hosoya\Documents\GitHub\ErrorMessageCheck\ErrorMessageCheck\ErrorMessageCheck\obj\Debug\ErrorMessageCheck.csproj.CoreCompileInputs.cache
 C:\Users\hosoya\Documents\GitHub\ErrorMessageCheck\ErrorMessageCheck\ErrorMessageCheck\obj\Debug\ErrorMessageCheck.exe
 C:\Users\hosoya\Documents\GitHub\ErrorMessageCheck\ErrorMessageCheck\ErrorMessageCheck\obj\Debug\ErrorMessageCheck.pdb
+C:\Users\hosoya\Documents\GitHub\ErrorMessageCheck\ErrorMessageCheck\ErrorMessageCheck\obj\Debug\ErrorMessageCheck.csprojAssemblyReference.cache
