@@ -93,6 +93,9 @@ namespace ErrorMessageCheck
             string err_message = null;
             string[,] message = new string[50, 2];
 
+            //GitHubテスト
+            //コメントを追加しました。
+
             //エラーメッセージと対策のデータベース
             //追加方法：以下の書式でデータを末尾に追加
             //*はID。末尾番号の連番を入力する。

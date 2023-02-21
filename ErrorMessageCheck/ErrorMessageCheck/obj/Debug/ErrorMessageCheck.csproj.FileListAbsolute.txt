@@ -3,3 +3,13 @@ C:\Users\hosoya\source\repos\ErrorMessageCheck\ErrorMessageCheck\obj\Debug\Error
 C:\Users\hosoya\source\repos\ErrorMessageCheck\ErrorMessageCheck\obj\Debug\ErrorMessageCheck.ErrorMessageCheck.resources
 C:\Users\hosoya\source\repos\ErrorMessageCheck\ErrorMessageCheck\obj\Debug\ErrorMessageCheck.csproj.GenerateResource.cache
 C:\Users\hosoya\source\repos\ErrorMessageCheck\ErrorMessageCheck\obj\Debug\ErrorMessageCheck.AB_RDGadget.resources
+C:\Users\hosoya\Documents\GitHub\ErrorMessageCheck\ErrorMessageCheck\ErrorMessageCheck\bin\Debug\ErrorMessageCheck.exe.config
+C:\Users\hosoya\Documents\GitHub\ErrorMessageCheck\ErrorMessageCheck\ErrorMessageCheck\bin\Debug\ErrorMessageCheck.exe
+C:\Users\hosoya\Documents\GitHub\ErrorMessageCheck\ErrorMessageCheck\ErrorMessageCheck\bin\Debug\ErrorMessageCheck.pdb
+C:\Users\hosoya\Documents\GitHub\ErrorMessageCheck\ErrorMessageCheck\ErrorMessageCheck\obj\Debug\ErrorMessageCheck.AB_RDGadget.resources
+C:\Users\hosoya\Documents\GitHub\ErrorMessageCheck\ErrorMessageCheck\ErrorMessageCheck\obj\Debug\ErrorMessageCheck.ErrorMessageCheck.resources
+C:\Users\hosoya\Documents\GitHub\ErrorMessageCheck\ErrorMessageCheck\ErrorMessageCheck\obj\Debug\ErrorMessageCheck.Properties.Resources.resources
+C:\Users\hosoya\Documents\GitHub\ErrorMessageCheck\ErrorMessageCheck\ErrorMessageCheck\obj\Debug\ErrorMessageCheck.csproj.GenerateResource.cache
+C:\Users\hosoya\Documents\GitHub\ErrorMessageCheck\ErrorMessageCheck\ErrorMessageCheck\obj\Debug\ErrorMessageCheck.csproj.CoreCompileInputs.cache
+C:\Users\hosoya\Documents\GitHub\ErrorMessageCheck\ErrorMessageCheck\ErrorMessageCheck\obj\Debug\ErrorMessageCheck.exe
+C:\Users\hosoya\Documents\GitHub\ErrorMessageCheck\ErrorMessageCheck\ErrorMessageCheck\obj\Debug\ErrorMessageCheck.pdb
